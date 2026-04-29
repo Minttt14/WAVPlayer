@@ -7,6 +7,7 @@
 ## 使用方法
 
 1.點擊「瀏覽」按鈕，系統會開啟檔案選擇對話方塊。為避免載入錯誤的檔案格式，系統已預設過濾條件，僅會顯示 .wav 格式的檔案供選取。選取完成後，檔案的完整路徑會自動帶入「音效位置」的文字方塊中
+<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/3a05d21d-0766-4a0c-862d-4ce1c94fb329" />
 
 <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/631c6026-c7fc-4032-b8ae-8abe19498f35" />
 <br>
